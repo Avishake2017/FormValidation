@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-			<h1>Welcome To your homePage</h1>
-			<a href = "Form">To the form</a>
-			<a href = "validateDepartment">To the Departmentform</a>
+		departmentName :${department.departmentName}
 </body>
 </html>
