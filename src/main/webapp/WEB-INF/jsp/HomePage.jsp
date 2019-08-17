@@ -10,5 +10,6 @@
 			<h1>Welcome To your homePage</h1>
 			<a href = "Form">To the form</a>
 			<a href = "validateDepartment">To the Departmentform</a>
+			<a href = "CheckException">To the Exception</a>
 </body>
 </html>
